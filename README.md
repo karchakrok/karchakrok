@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @karchakrok
+- 🇫🇷 French Student
+- 📫 𝗸𝗮𝗿𝗰𝗵𝗮𝗸𝗿𝗼𝗸#0788 (copy/paste)
