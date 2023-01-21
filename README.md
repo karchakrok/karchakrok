@@ -1,3 +1,6 @@
-- 👋 Hi, I’m @karchakrok
-- 🇫🇷 French Student
-- 📫 𝗸𝗮𝗿𝗰𝗵𝗮𝗸𝗿𝗼𝗸#0788 (copy/paste)
+# 👋 Hi there!
+
+I'm @karchakrok, a **french** student.
+
+I use Python and currently learning web languages like HTML, CSS, JavaScript...
+
